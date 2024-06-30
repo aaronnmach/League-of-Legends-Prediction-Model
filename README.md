@@ -17,7 +17,7 @@ This model predicts winning teams in League of Legends using machine learning te
    - Traversal through nodes continues until a prediction is made based on the final leaf nodes.
 
 ## Results
-The model achieved [insert accuracy or performance metric] accuracy on the test set, demonstrating its effectiveness in predicting game outcomes in League of Legends based on selected features.
+The model achieved **96.48%** accuracy on the test set, demonstrating its effectiveness in predicting game outcomes in League of Legends based on selected features.
 
 ## Dependencies
 - Python 3.x
